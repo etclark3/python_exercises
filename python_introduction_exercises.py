@@ -1,5 +1,5 @@
-print("Hello World")
+greeting = 'This is the Python Introduction Exercise file'
 
-greeting = 'I will print to the console'
+print("Hello World")
 
 print(greeting)
